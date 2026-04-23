@@ -1,5 +1,4 @@
 #  Advanced Airport Management System
-
 ## 
 * **Names:** Niyonshimira Jeanmarie
 * **Student ID:** 27197
@@ -7,15 +6,8 @@
 * **Title:** OOP Assignment
 
 ---
-
 ## Project Description
-This project is an **Advanced Airport Management System** developed as part of the Object-Oriented Programming (OOP) course assignment. The system provides a comprehensive solution for managing airport operations, including:
-* **Passenger Management:** Registering and managing passenger details.
-* **Flight Management:** Creating and updating different types of flights (Domestic, International, Cargo, etc.) using the Factory Pattern.
-* **Booking & Reservation:** Handling the flow from reservation to ticket generation and boarding pass issuance.
-* **System Administration:** Tracking statuses, processing payments, and generating summaries.
-
-
+This project is an **Advanced Airport Management System** developed as part of the Object-Oriented Programming (OOP) course assignment. The system provides a comprehensive solution for managing airport operations, 
 
 ## How to Run the Application   Using Docker
 
