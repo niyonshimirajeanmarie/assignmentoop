@@ -1,7 +1,7 @@
-# OOP Assignment - Advanced Airport Management System
+#  Advanced Airport Management System
 
 ## 
-* **Name:** Niyonshimira Jeanmarie
+* **Names:** Niyonshimira Jeanmarie
 * **Student ID:** 27197
 * **Group:** D
 * **Title:** OOP Assignment
